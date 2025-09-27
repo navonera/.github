@@ -18,7 +18,3 @@ It includes backend services, frontend UI integration, and deployment configurat
 ### 2. [ui-template](https://github.com/navonera/ui-template)  
 🎨 **The "Minimals" UI Template** – A **Next.js-based** template that provides reusable **pages, sections, and components**.  
 Use this repository to customize and compose new UI experiences for Navonera. Visit the deployed template at [minimals.cc](https://minimals.cc/).
-
-### 3. [ai-playground](https://github.com/navonera/ai-playground)  
-🤖 **AI Experiments & Workflows** – A dedicated space for testing and experimenting with **AI-powered features**.  
-This is where we prototype, validate, and refine AI-driven functionalities before integrating them into the main platform.
