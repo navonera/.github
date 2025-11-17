@@ -9,6 +9,10 @@
 A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks. 
 
 
+## 🎨 Figma Designs
+
+[Our Figma file](figma.com/design/CXosaF9R6MIQcXrfCqzGXq/Navonera---Minimal_Web?node-id=4176-191565&t=bhRlyyhUKFpOKiDv-0)
+
 ## 📂 Repositories
 
 ### 1. [platform](https://github.com/navonera/platform)  
