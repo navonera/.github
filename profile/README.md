@@ -4,9 +4,9 @@
 <br /> 
 
 
-## Project Managment
+## ✅ Project Managment
 
-A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks ✅
+A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks. 
 
 
 ## 📂 Repositories
