@@ -1,15 +1,15 @@
-![logo-bottom-text@2x-1 (1)](https://github.com/user-attachments/assets/18cb177b-eed6-4059-b0c8-4c9c9aeec278)
 
-Welcome to **Navonera**! 🚀  
-Navonera is a platform for AI-powered **Live Worksheets**, enabling interactive and intelligent learning experiences.
+<img width="755" height="138" alt="Frame 251083" src="https://github.com/user-attachments/assets/c1b95de2-683e-4970-b19a-c31eb7434160" />
 
-## 🌟 What is Navonera?
-Navonera combines AI with real-time user interaction to create **adaptive, engaging, and intelligent worksheets**.  
-It allows educators, trainers, and learners to experience a **dynamic** and **personalized** way of learning.
+<br /> 
+
+
+## Project Managment
+
+A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks ✅
+
 
 ## 📂 Repositories
-
-Navonera consists of three main repositories:
 
 ### 1. [platform](https://github.com/navonera/platform)  
 🚀 **The Core Application** – This is the main **Navonera** platform that goes to production.  
