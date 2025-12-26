@@ -3,16 +3,6 @@
 
 <br /> 
 
-
-## ✅ Project Managment
-
-A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks. 
-
-
-## 🎨 Designs
-
-[Our Figma file](figma.com/design/CXosaF9R6MIQcXrfCqzGXq/Navonera---Minimal_Web?node-id=4176-191565&t=bhRlyyhUKFpOKiDv-0)
-
 ## 📂 Repositories
 
 ### 1. [platform](https://github.com/navonera/platform)  
@@ -22,3 +12,14 @@ It includes backend services, frontend UI integration, and deployment configurat
 ### 2. [ui-template](https://github.com/navonera/ui-template)  
 🎨 **The "Minimals" UI Template** – A **Next.js-based** template that provides reusable **pages, sections, and components**.  
 Use this repository to customize and compose new UI experiences for Navonera. Visit the deployed template at [minimals.cc](https://minimals.cc/).
+
+
+## ✅ Project Managment
+
+A [scrum board](https://github.com/orgs/navonera/projects/2) with out team's tasks. 
+
+
+## 🎨 Designs
+
+[Our Figma files](https://www.figma.com/files/team/1436454166946901731)
+
